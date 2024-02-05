@@ -1,6 +1,6 @@
 <?php
 // 设置正确的密码
-$correctPassword = 'admin6565';
+$correctPassword = '12345678';
 
 // 检查是否提交了表单
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
